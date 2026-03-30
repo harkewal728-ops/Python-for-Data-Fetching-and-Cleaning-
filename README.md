@@ -1,0 +1,1 @@
+This project implements an ETL pipeline using Python to extract economic data from the FRED API, transform and clean the dataset, and perform statistical analysis. It analyzes key indicators including GDP, unemployment, inflation, and interest rates, and visualizes trends to support data-driven insights into economic performance over time.
